@@ -1,0 +1,17 @@
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net6.0\BuberDinner.Infrastructure.deps.json
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net6.0\BuberDinner.Infrastructure.dll
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net6.0\BuberDinner.Infrastructure.pdb
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\BuberDinner.Infrastructure.AssemblyInfo.cs
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\BuberDinner.Infrastructure.dll
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\refint\BuberDinner.Infrastructure.dll
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\BuberDinner.Infrastructure.pdb
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\ref\BuberDinner.Infrastructure.dll
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net6.0\BuberDinner.Application.dll
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net6.0\BuberDinner.Domain.dll
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net6.0\BuberDinner.Application.pdb
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net6.0\BuberDinner.Domain.pdb
+F:\My Own Projects\CQRSProject\BuberDinner\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net6.0\BuberDinner.Infrastructure.csproj.CopyComplete
